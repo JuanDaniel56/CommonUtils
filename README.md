@@ -1,2 +1,2 @@
 # CommonUtils
-C++ common utilities in project
+C++ common utilities in projects
